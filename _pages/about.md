@@ -44,6 +44,7 @@ Many people use a git client to create files on their local computer and then pu
 Example: editing a markdown file for a talk
 ![Editing a markdown file for a talk](/images/editing-talk.png) -->
 
+======
 
 We are thrilled to have you here. This platform is dedicated to enthusiasts and professionals alike who are passionate about electronic projects. Whether you're a beginner looking to start your first project or an experienced maker seeking inspiration, you've come to the right place.
 
@@ -65,7 +66,9 @@ Lim Rithy
 
 
 ## More Information
-------
+
+======
+
 If you're eager to learn more about what we offer or have any questions, here's how you can reach out:
 
 - **Contact Us**: Feel free to drop us a message at [rithylim.leonal@gmail.com](rithylim.leonal@gmail.com) for inquiries or assistance.
